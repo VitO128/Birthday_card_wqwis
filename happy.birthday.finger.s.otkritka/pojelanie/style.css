@@ -1,0 +1,9 @@
+body {
+    background-color: #E9E1F5
+}
+textarea {
+    border: 2px solid #8064A2;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 8px;  
+}
