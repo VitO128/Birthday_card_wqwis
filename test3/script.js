@@ -8,5 +8,5 @@ function Clicked_ful1() {
 };
 function Clicked_tru() {
     alert("Верно!")
-    window.location.href="../test4/index.html"
+    window.location.href="../pojelanie/index.html"
 }
